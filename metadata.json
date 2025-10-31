@@ -1,0 +1,5 @@
+{
+  "name": "Cyan File Hub",
+  "description": "A modern file hosting platform for users and administrators. Users can upload photos and videos, manage their files with custom URLs, and view their history. The admin panel provides comprehensive oversight with user management, file statistics, and moderation tools.",
+  "requestFramePermissions": []
+}
